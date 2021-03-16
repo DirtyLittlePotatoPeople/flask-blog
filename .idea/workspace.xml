@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4abf067-1b92-42bf-8399-0d528b74ff86" name="Default Changelist" comment="Add gunicorn">
+    <list default="true" id="b4abf067-1b92-42bf-8399-0d528b74ff86" name="Default Changelist" comment="Add dependency requirements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615922481682</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add dependency requirements">
+      <created>1615923026533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615923026533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +119,8 @@
     </ignored-roots>
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add gunicorn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gunicorn" />
+    <MESSAGE value="Add dependency requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dependency requirements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="812" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615922287734">
@@ -150,10 +159,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="570" y="168" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1615922214524" />
-    <state x="639" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615922534532">
+    <state x="639" y="255" key="Vcs.Push.Dialog.v2" timestamp="1615923032268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="639" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1615922534532" />
+    <state x="639" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1615923032268" />
     <state x="856" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615922508234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
